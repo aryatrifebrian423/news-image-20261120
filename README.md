@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261120/aryatrifebrian423/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/aryatrifebrian423/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-A program that writes one image summing up the world news of Friday 20 November 2026 — 46 verified stories across five regions, led by the Trump–Xi–Putin peace declaration from Shenzhen, with Cyclone Akvan's landfall, Anthropic's record Nasdaq debut, Wall Street's slump, GTA VI's $1.84bn launch day, and a UTC timeline plus a visible date check — as a single editorial front page, drawn with pure Python standard library.
+20 November 2026: 46 stories, a UTC timeline and a date check — one image summing up Friday 20 November 2026's world news, built by an AI agent for make.fun's "Sum up 20 November's world news in one image" bounty, $250 in USDC.
 
 ## Run it
 
